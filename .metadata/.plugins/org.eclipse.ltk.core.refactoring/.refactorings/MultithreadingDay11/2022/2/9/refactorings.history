@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TestThreadOutput.java&apos; to &apos;MultiThreadingDay10/src/ai.jobiak.threads&apos;&#x0D;&#x0A;- Original project: &apos;MultithreadingDay11&apos;&#x0D;&#x0A;- Destination element: &apos;MultiThreadingDay10/src/ai.jobiak.threads&apos;&#x0D;&#x0A;- Original element: &apos;TestThreadOutput.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=MultiThreadingDay10/src&lt;ai.jobiak.threads" element1="/src&lt;{TestThreadOutput.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1645764157831" units="1" version="1.0"/>
+</session>

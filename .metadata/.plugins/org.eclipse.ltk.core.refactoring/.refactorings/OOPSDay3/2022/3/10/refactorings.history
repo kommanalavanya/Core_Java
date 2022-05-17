@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Employee.java&apos; to &apos;CollectionFrameworkDay13/src/ai.jobiak.maps&apos;&#x0D;&#x0A;- Original project: &apos;OOPSDay3&apos;&#x0D;&#x0A;- Destination element: &apos;CollectionFrameworkDay13/src/ai.jobiak.maps&apos;&#x0D;&#x0A;- Original element: &apos;ai.jobiak.core.Employee.java&apos;" description="Copy compilation unit" destination="=CollectionFrameworkDay13/src&lt;ai.jobiak.maps" element1="/src&lt;ai.jobiak.core{Employee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1646217747850" units="1" version="1.0"/>
+</session>

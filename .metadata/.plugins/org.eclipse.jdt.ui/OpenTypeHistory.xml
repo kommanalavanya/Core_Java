@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=OOpsDay4/src&lt;ai.jobiak.inheritance{A.java[A" modifiers="1" timestamp="1645003965154"/>
+    <typeInfo handle="=OOpsDay4/src&lt;ai.jobiak.inheritance{Address.java[Address" modifiers="1" timestamp="1644913290785"/>
+    <typeInfo handle="=OOpsDay4/src&lt;ai.jobiak.inheritance.overriding{A.java[A" modifiers="1" timestamp="1645019466304"/>
+    <typeInfo handle="=OOpsDay4/src&lt;ai.jobiak.inheritance.overriding{Shape.java[Shape" modifiers="1" timestamp="1644925336742"/>
+    <typeInfo handle="=OOPSDay5/src&lt;ai.jobiak.inheritanceadvanced{Base.java[Base" modifiers="1" timestamp="1644984641575"/>
+    <typeInfo handle="=OOPSDay5/src&lt;ai.jobiak.inheritanceadvanced{Base2.java[Base2" modifiers="1" timestamp="1644987585800"/>
+    <typeInfo handle="=OOPSDay6/src&lt;ai.jobiak.otherclasses2{Shape.java[Shape" modifiers="513" timestamp="1645098172972"/>
+    <typeInfo handle="=OOPSDay6/src&lt;ai.jobiak.interfaces{A.java[A" modifiers="513" timestamp="1645167818187"/>
+    <typeInfo handle="=OOPSDay7/src&lt;ai.jobiak.source{A.java[A" modifiers="1" timestamp="1645159527942"/>
+    <typeInfo handle="=OOPSDay6/src&lt;ai.jobiak.interfaces{B.java[B" modifiers="513" timestamp="1645168135691"/>
+    <typeInfo handle="=MultiThreadingDay10/C:\/Users\/Jobiak\/Downloads\/jdk-17_windows-x64_bin\/jdk-17.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1644310608525"/>
+    <typeInfo handle="=MultiThreadingDay10/C:\/Users\/Jobiak\/Downloads\/jdk-17_windows-x64_bin\/jdk-17.0.2\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1644310608525"/>
+</typeInfoHistroy>

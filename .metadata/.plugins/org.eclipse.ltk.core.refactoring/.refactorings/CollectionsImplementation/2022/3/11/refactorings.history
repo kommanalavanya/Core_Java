@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;num1&apos; in &apos;ai.jobiak.list.TestArrayList.main(...)&apos; to &apos;num2&apos;&#x0D;&#x0A;- Original project: &apos;CollectionsTask&apos;&#x0D;&#x0A;- Original element: &apos;ai.jobiak.list.TestArrayList.main(String[]).num1&apos;&#x0D;&#x0A;- Renamed element: &apos;num1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;num1&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ai.jobiak.list{TestArrayList.java[TestArrayList~main~\[QString;@num1!981!1022!1000!1003!QArrayList\&lt;QInteger;&gt;;!0!false" name="num2" references="true" stamp="1646653371984" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;ai.jobiak.otherclasses&apos; to &apos;OOPSDay6/src&apos;&#x0D;&#x0A;- Original project: &apos;OOPSDay5&apos;&#x0D;&#x0A;- Destination element: &apos;OOPSDay6/src&apos;&#x0D;&#x0A;- Original element: &apos;OOPSDay5/src/ai.jobiak.otherclasses&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=OOPSDay6/src" element1="/src&lt;ai.jobiak.otherclasses" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1645157848156" version="1.0"/>
+</session>

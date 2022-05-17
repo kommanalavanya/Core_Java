@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ai.jobiak.sql.CallableStatement.java&apos; to &apos;CallableStatementInterface.java&apos;&#x0D;&#x0A;- Original project: &apos;JdbcOperations&apos;&#x0D;&#x0A;- Original element: &apos;ai.jobiak.sql.CallableStatement.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ai.jobiak.sql.CallableStatementInterface.java&apos;" description="Rename compilation unit &apos;CallableStatement.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ai.jobiak.sql{CallableStatement.java" name="CallableStatementInterface.java" references="false" stamp="1647929060921" version="1.0"/>
+</session>

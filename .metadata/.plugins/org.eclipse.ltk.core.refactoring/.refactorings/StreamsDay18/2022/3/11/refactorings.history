@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ai.jobiak.StreamsTask.StreamOf&apos; to &apos;MapMethods&apos;&#x0D;&#x0A;- Original project: &apos;StreamsDay18&apos;&#x0D;&#x0A;- Original element: &apos;ai.jobiak.StreamsTask.StreamOf&apos;&#x0D;&#x0A;- Renamed element: &apos;ai.jobiak.StreamsTask.MapMethods&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StreamOf&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ai.jobiak.StreamsTask{StreamOf.java[StreamOf" matchStrategy="1" name="MapMethods" qualified="false" references="true" similarDeclarations="false" stamp="1646910721462" textual="false" version="1.0"/>
+</session>
